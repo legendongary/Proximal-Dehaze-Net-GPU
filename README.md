@@ -1,6 +1,6 @@
 # Proximal-Dehaze-Net-GPU
 
-GPU based Matlab code for ECCV 2018 paper "[Proximal Dehaze-Net: A Prior Learning-Based Deep Network for Single Image Dehazing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Yang_Proximal_Dehaze-Net_A_ECCV_2018_paper.pdf)".
+GPU based Matlab code for ECCV 2018 paper "[Proximal Dehaze-Net: A Prior Learning-Based Deep Network for Single Image Dehazing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Yang_Proximal_Dehaze-Net_A_ECCV_2018_paper.pdf)". There is only test code right now and we will release the training code soon.
 
 ### Installation
 
