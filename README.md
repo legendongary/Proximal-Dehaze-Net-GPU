@@ -23,3 +23,6 @@ There are 3 trained models:
 3. "net-reside-s2.mat": 2-stage network trained on RESIDE dataset
 
 These models are evaluated respectively by function `cnn_ours_eval`, `cnn_reside_s1_eval` and `cnn_s2_eval`.
+
+The code is tested on Ubuntu 16.04 with Matlab R2018a and Cuda-9.0. It should work well on other operating systems like Windows. And for any problem on compiling MatConvNet package, please refer to http://www.vlfeat.org/matconvnet/ or contact me at: yangdong2010@stu.xjtu.edu.cn.
+
