@@ -26,3 +26,6 @@ These models are evaluated respectively by function `cnn_ours_eval`, `cnn_reside
 
 The code is tested on Ubuntu 16.04 with Matlab R2018a and Cuda-9.0. It should work well on other operating systems like Windows. And for any problem on compiling MatConvNet package, please refer to http://www.vlfeat.org/matconvnet/ or contact me at: yangdong2010@stu.xjtu.edu.cn.
 
+### Update
+
+Supplementary material is added: https://github.com/legendongary/Proximal-Dehaze-Net-CPU/blob/master/supplementary-material.pdf
